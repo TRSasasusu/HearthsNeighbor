@@ -20,8 +20,8 @@
 		"$HNDialoguePod7": "[何ですか、もっと何か欲しいですか？いいでしょう。このポッドの信号を知った場所へ戻り、そこで隠されたトンネルを探してください。片側から入ることができ、先は通行止めになっています。しかし、反対側までは続いていて…そこでどのように終わるか見届けることができるでしょう。]",
 
 		//Dev Room
-		"$HNDevPreJamOption": "Jam Message...",
-		"$HNDevPostJamOption": "Victory Message...",
+		"$HNDevPreJamOption": "ジャムメッセージ…",
+		"$HNDevPostJamOption": "勝利のメッセージ…",
 
 		//Shoe
 		"$HNDevShoeName": "FunkyShoeMan",
@@ -75,22 +75,22 @@
 	"ShipLogDictionary": {
 
 		//Alpine Core
-		"$HNACName" : "Alpine Core",
-		"$HNACDescription" : "Below the Northern Wasteland, I found a strange land of frozen floating islands. It will take a lot of jetpacking skill to traverse them, such as remembering that I can gain extra height by boosting while I have upwards momentum from a jump.",
-		"$HNACRedHouse" : "On the largest island, I found a building, likely the former dwelling place of this planet's inhabitants.",
-		"$HNACRedMural" : "In the house, there is a mural depicting a red inhabitant somehow creating three pocket dimensions inside Lonely Hermit.",
+		"$HNACName" : "高山のコア",
+		"$HNACDescription" : "北の荒野の下に、凍った浮島が連なる奇妙な土地を見つけた。それらを越えるには、ジャンプによる上昇の勢いがあるうちにブーストすることでさらに高度を稼げることを覚えておくなど、多くのジェットパックスキルが要求される。",
+		"$HNACRedHouse" : "最も大きな島にて、おそらくこの惑星の住民のかつての住居と思われる建物を見つけた。",
+		"$HNACRedMural" : "家の中には、孤独な隠者内部にどうにかして3つのポケット次元を作り出している火の住人が描かれた壁画が存在する。",
 
 		//Odd Code
-		"$HNACCodeName" : "Odd Code",
-		"$HNACCode" : "Some kind of code has been written on a table.",
+		"$HNACCodeName" : "奇妙なコード",
+		"$HNACCode" : "テーブルには何らかのコードが書かれている。",
 
 		//Blue House
-		"$HNACSecret" : "Blue House",
-		"$HNACSecretInfo" : "There is a house on a very remote island in the Alpine Core.",
-		"$HNACSecretMap" : "The house contains a starmap showing nearby systems, including our own. The inhabitants seemed interested in a strange anomaly near our system, but there seems to have been disagreement about the route, or whether they should go at all.",
+		"$HNACSecret" : "水の家",
+		"$HNACSecretInfo" : "高山のコアの非常に遠く離れた島には家が存在する。",
+		"$HNACSecretMap" : "家には我々の星系を含む、近くの星系を示す星図がある。住民達は我々の星系近くの奇妙な異常に興味を持っていたようだが、そこまでのルートについて、あるいはそもそも行くべきかどうかについて意見の相違があったようだ。",
 
 		//Derelict Ship
-		"$HNDSName" : "Derelict Ship",
+		"$HNDSName" : "遺棄船",
 		"$HNDSAlpineRumorName" : "Use for a Code",
 		"$HNDSAlpineRumor" : "On the Alpine Core, I found a code of some kind.",
 		"$HNDSLakeRumorName" : "Blue Inhabitant's Ship",
