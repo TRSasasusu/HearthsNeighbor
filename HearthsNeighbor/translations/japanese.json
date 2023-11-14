@@ -215,30 +215,30 @@
 	"UIDictionary": {
 
 		//Planet(s)
-		"Lonely Hermit" : "Lonely Hermit",
-		"Alpine Core" : "Alpine Core",
-		"Lake Core" : "Lake Core",
-		"Lava Core" : "Lava Core",
-		"Derelict Ship" : "Derelict Ship",
-		"Neighbor Sun" : "Neighbor's Sun",
+		"Lonely Hermit" : "孤独な隠者",
+		"Alpine Core" : "高山のコア",
+		"Lake Core" : "湖のコア",
+		"Lava Core" : "溶岩のコア",
+		"Derelict Ship" : "遺棄船",
+		"Neighbor Sun" : "隣人の太陽",
 
 		//Neighbor's Distress Signal
-		"NEIGHBOR'S DISTRESS SIGNAL" : "NEIGHBOR'S DISTRESS SIGNAL",
-		"DERELICT SHIP" : "DERELICT SHIP",
-		"DEAD LAKE DISH" : "DEAD LAKE DISH",
+		"NEIGHBOR'S DISTRESS SIGNAL" : "隣人の救難信号",
+		"DERELICT SHIP" : "遺棄船",
+		"DEAD LAKE DISH" : "死んだ湖のアンテナ",
 
 		//Lava Core Signals
-		"Lava Core Signals" : "LAVA CORE SIGNALS",
-		"ENTRANC STATION" : "ENTRANCE STATION",
-		"LAVA SHRINE" : "LAVA SHRINE",
-		"STRUCTURE BY CLIFF" : "STRUCTURE BY CLIFF",
-		"STRUCTURE WITH PILLARS" : "STRUCTURE WITH PILLARS",
-		"OlD ABANDONED TOWN" : "OLD ABANDONED TOWN",
+		"Lava Core Signals" : "溶岩のコアの信号",
+		"ENTRANC STATION" : "入口ステーション",
+		"LAVA SHRINE" : "溶岩の神殿",
+		"STRUCTURE BY CLIFF" : "崖側の構造物",
+		"STRUCTURE WITH PILLARS" : "柱付近の構造物",
+		"OlD ABANDONED TOWN" : "古い放棄された街",
 
 		//Galactic Communication
-		"GALACTIC COMMUNICATION" : "GALACTIC COMMUNICATION",
-		"DERELICT SHIP COCKPIT" : "DERELICT SHIP COCKPIT",
-		"SOLE SURVIVOR" : "SOLE SURVIVOR"
+		"GALACTIC COMMUNICATION" : "銀河間通信",
+		"DERELICT SHIP COCKPIT" : "遺棄船のコックピット",
+		"SOLE SURVIVOR" : "唯一の生存者"
 
 	}
 }
