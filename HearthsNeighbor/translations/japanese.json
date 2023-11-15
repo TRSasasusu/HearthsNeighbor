@@ -171,26 +171,26 @@
 		"$HNLHPlantInfo" : "壁画は、この構造物がかつて惑星に衝突した彗星の周りに建てられたことを示している。この惑星の住民は彗星内部からのエネルギーを利用して文明を発展させていた。",
 
 		//Northern Wasteland
-		"$HNLHWastelandName" : "Northern Wasteland",
-		"$HNLHWastelandRumorName" : "North Pole",
-		"$HNLHWastelandRumor" : "There appears to be some snow-covered mountains at the north pole.",
-		"$HNLHWastelandRumorAlt" : "At the north pole, there are small remnants of civilization.",
-		"$HNLHWastelandElevator" : "I found a functioning elevator in the wasteland.",
+		"$HNLHWastelandName" : "北の荒野",
+		"$HNLHWastelandRumorName" : "北極",
+		"$HNLHWastelandRumor" : "北極には雪を被った山がいくつかある。",
+		"$HNLHWastelandRumorAlt" : "北極には文明の小さな名残がある。",
+		"$HNLHWastelandElevator" : "荒野にて機能するエレベーターを見つけた。",
 
 		//Extinct Volcano
-		"$HNLHVolcanoName" : "Extinct Volcano",
-		"$HNLHVolcanoRumorName" : "Tall Mountain",
-		"$HNLHVolcanoRumor" : "There appears to be a tall, hollow mountain close to the south pole.",
-		"$HNLHVolcanoRumorAlt" : "A long-extinct volcano exists on the surface.",
-		"$HNLHVolcanoElevator" : "I found a functioning elevator on a structure within the caldera of the volcano.",
+		"$HNLHVolcanoName" : "絶えた火山",
+		"$HNLHVolcanoRumorName" : "大きな山",
+		"$HNLHVolcanoRumor" : "南極の近くに、空洞の大きな山があるようだ。",
+		"$HNLHVolcanoRumorAlt" : "地表には長らく活動していない火山がある。",
+		"$HNLHVolcanoElevator" : "火山のカルデラ内の構造物にて、機能するエレベーターを見つけた。",
 
 		//Dead Lake
-		"$HNLHLakeName" : "Dead Lake",
-		"$HNLHLakeRumorName" : "Large Structure",
-		"$HNLHLakeRumor" : "There is a large structure surrounded by a moat.",
-		"$HNLHLakeRumorAlt" : "A strange structure exists surrounded by a moat. Despite the water, the area does not have any signs of life.",
-		"$HNLHLakeElevator" : "I found a functioning elevator within the structure.",
-		"$HNLHLakeHangar" : "The structure has some kind of landing/launching pad for larger ships. The pad is connected to a large hangar of some kind where the inhabitants of this planet stored resources to build a much larger structure.",
+		"$HNLHLakeName" : "死んだ湖",
+		"$HNLHLakeRumorName" : "大きな構造物",
+		"$HNLHLakeRumor" : "堀に囲われた大きな構造物がある。",
+		"$HNLHLakeRumorAlt" : "堀に囲われた奇妙な構造物が存在する。水があるにもかかわらず、この地域には生命の痕跡が存在しない。",
+		"$HNLHLakeElevator" : "構造物内に機能するエレベーターを見つけた。",
+		"$HNLHLakeHangar" : "この構造物には、大型船用の着陸/発射台のようなものがある。このパッドは、この惑星の住民がより大きな構造物を建造するために資源を保管していたある種の大きな格納庫に接続されている。",
 
 		//Satellite Room
 		"$HNLHLakeDoorName" : "Satellite Room",
