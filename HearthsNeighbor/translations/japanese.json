@@ -127,26 +127,26 @@
 		"$HNLKMazeGazebo" : "トンネルを抜けるとその陸地の地表に出た。壁画が描かれた展望台があり、それは神殿の下の水中にトンネルが存在することを示しているようだ。",
 
 		//Lava Core
-		"$HNLVName" : "Lava Core",
-		"$HNLVDescription" : "Below the Extinct Volcano, there is a cracked sphere with lava rising and falling.",
-		"$HNLVButtons" : "This core contains structures locked by various buttons. They are very easy to press, not requiring very much pressure to activate, but must all be activated simultaneously.",
-		"$HNLVSignal" : "A dish at the entrance to the core is sending and receiving communications from various structures on the core.",
+		"$HNLVName" : "溶岩のコア",
+		"$HNLVDescription" : "絶えた火山の下には、溶岩が上下するひび割れた球体がある。",
+		"$HNLVButtons" : "このコアには様々なボタンによってロックされた構造体が存在する。そのボタンを押すのはとても簡単でありアクティブ化するのにほとんど圧力を必要としないが、すべてを同時にアクティブにする必要がある。",
+		"$HNLVSignal" : "コア入口にあるアンテナは、コア内の様々な構造物と通信を送受信している。",
 
 		//Structure On A Cliff
-		"$HNLVFirstButtonName" : "Structure On A Cliff",
-		"$HNLVFirstButtonInfo" : "I found a locked structure with a button right outside of it. I don't see a second one, could it have fallen into the lava?",
+		"$HNLVFirstButtonName" : "崖側の構造物",
+		"$HNLVFirstButtonInfo" : "すぐ外にボタンのあるロックされた構造物を見つけた。2つ目が見当たらないが、溶岩に落ちているのだろうか？",
 
 		//Structure By Pillars
-		"$HNLVSecondButtonName" : "Structure By Pillars",
-		"$HNLVSecondButtonInfo" : "I found a locked structure with two pillars nearby sticking out of the lava.",
+		"$HNLVSecondButtonName" : "柱付近の構造物",
+		"$HNLVSecondButtonInfo" : "近くに溶岩から突き出た2本の柱がある、ロックされた構造物を見つけた。",
 
 		//Old Abandoned Town
-		"$HNLVThirdButtonName" : "Old Abandoned Town",
-		"$HNLVThirdButtonInfo" : "I found a series of locked structures.",
+		"$HNLVThirdButtonName" : "古い放棄された街",
+		"$HNLVThirdButtonInfo" : "一連のロックされた構造物群を見つけた。",
 
 		//Lava Shrine
-		"$HNLVShrineName" : "Lava Shrine",
-		"$HNLVShrineRumorName" : "Strange Building",
+		"$HNLVShrineName" : "溶岩の神殿",
+		"$HNLVShrineRumorName" : "奇妙な建造物",
 		"$HNLVShrineInfo" : "Near the entrance to the lava core exists a very large building. It is not made of metal like the other structures nearby. A barrier prevents entry.",
 		"$HNLVShrineInfoAlt" : "A shrine can be found a short distance from the entrance to the lava core. A barrier blocks entry, but activating three buttons across the core opens it.",
 		"$HNLVShrineButtonRumorName" : "Button's Response",
