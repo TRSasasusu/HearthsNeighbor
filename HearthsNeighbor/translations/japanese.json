@@ -147,14 +147,14 @@
 		//Lava Shrine
 		"$HNLVShrineName" : "溶岩の神殿",
 		"$HNLVShrineRumorName" : "奇妙な建造物",
-		"$HNLVShrineInfo" : "Near the entrance to the lava core exists a very large building. It is not made of metal like the other structures nearby. A barrier prevents entry.",
-		"$HNLVShrineInfoAlt" : "A shrine can be found a short distance from the entrance to the lava core. A barrier blocks entry, but activating three buttons across the core opens it.",
-		"$HNLVShrineButtonRumorName" : "Button's Response",
-		"$HNLVButtonOne" : "I found a button at the Structure on a Cliff.",
-		"$HNLVButtonTwo" : "I found a button at the Structure by Pillars.",
-		"$HNLVButtonThree" : "I found a button at the Old Abandoned Town.",
-		"$HNLVShrineEntry" : "When I entered the shrine, I fell through a fake floor! It turns out that the inhabitants have walls that appear to exist, but are not at all solid. The only way to tell that wall is fake is a symbol on it, which could be <![CDATA[<color=orange>hidden in plain sight</color>]]>.",
-		"$HNLVShrineMurals" : "At the end of the shrine, I found four murals. The first three seem to depict several planets becoming increasingly unstable and falling apart. The fourth depicts a group flying away in a ship, while another group is saddened and angered at being left behind.",
+		"$HNLVShrineInfo" : "溶岩のコアの入口近くに非常に大きな建造物が存在する。近隣の他の構造物と異なり、金属製ではない。バリアにより入ることができない。",
+		"$HNLVShrineInfoAlt" : "溶岩のコアの入口から少し離れたところに神殿がある。バリアが侵入を防いでいるが、コアを横切る3つのボタンをアクティブにすると解除される。",
+		"$HNLVShrineButtonRumorName" : "ボタンの反応",
+		"$HNLVButtonOne" : "崖側の構造物にてボタンを見つけた。",
+		"$HNLVButtonTwo" : "柱付近の構造物にてボタンを見つけた。",
+		"$HNLVButtonThree" : "古い放棄された街にてボタンを見つけた。",
+		"$HNLVShrineEntry" : "神殿に入ると偽の床から落下してしまった！存在するように見えても実はそうではない壁を、ここの住民達は利用していることがわかった。壁が偽物かどうか判別する唯一の方法は、その壁にあるシンボルである。つまり、<![CDATA[<color=orange>目に見えないところに隠されている</color>]]>ということだ。",
+		"$HNLVShrineMurals" : "神殿の最奥に4枚の壁画を見つけた。最初の3つは、それぞれの惑星がますます不安定になり崩壊している様子に見える。4つ目には、船で飛び去るグループと、取り残され悲しみつつ腹を立てるグループが描かれている。",
 
 		//Lonely Hermit
 		"$HNLHName" : "Lonely Hermit",
