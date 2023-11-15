@@ -109,22 +109,22 @@
 
 		//Lake Core
 		"$HNLKName" : "湖のコア",
-		"$HNLKDescription" : "Below the Dead Lake, there is a strange sea dotted with a few islands. Next to the elevator that took me down is a levitating radio dish pointing north.",
-		"$HNLKRaft" : "There is a raft on the starting island. Its controls appear to react to light.",
+		"$HNLKDescription" : "死んだ湖の下には、いくつかの島が点在する奇妙な海がある。私を降ろしたエレベーターの隣には、北を向いて空中に浮かぶパラボラアンテナが存在する。",
+		"$HNLKRaft" : "始まりの島にはイカダがある。その制御装置は光に反応するようだ。",
 
 		//Shrine Island
-		"$HNLKShrineName" : "Shrine Island",
-		"$HNLKShrineRumor" : "North of the starting island, there is a shrine of some kind on elevated ground. The stairs to the shrine have long crumbled.",
-		"$HNLKShrineEntry" : "The shrine has a secret entrance via a tunnel in the water.",
-		"$HNKLKShrineStation" : "There seems to be some kind of makeshift communications station in the shrine. There is a lever and a levitating radio dish pointing towards the entrance.",
-		"$HNLKShrineLever" : "The lever opened a door in the hangar at the Dead Lake.",
-		"$HNLKShrineMural" : "There is a mural in the shrine recounting a war between two factions, conveyed with red against blue inhabitants. This war lead to most of the planet becoming uninhabitable. Seeing this, the leaders of the two factions agreed to a truce and began to rebuild.",
-		"$HNLKShrinePoster" : "A poster above the communications area displays blue inhabitants flying ships into space and slowly building a much larger ship.",
+		"$HNLKShrineName" : "神殿島",
+		"$HNLKShrineRumor" : "始まりの島の北、高台に何らかの神殿がある。その神殿への階段は長い時間の経過により崩れ落ちている。",
+		"$HNLKShrineEntry" : "神殿には水中のトンネルを通った秘密の入口が存在する。",
+		"$HNKLKShrineStation" : "神殿内には間に合わせの通信装置のようなものがある。そこにはレバーがついており、そして入口の方角を向いたパラボラアンテナが空中に浮いている。",
+		"$HNLKShrineLever" : "レバーは死んだ湖にある格納庫の扉を開けた。",
+		"$HNLKShrineMural" : "神殿には火と水の民という2つの勢力間の戦争を描いた壁画がある。この戦いにより惑星の大部分は居住不可能な状態となった。この状況を見た双方の指導者らは休戦に合意し、再建を始めた。",
+		"$HNLKShrinePoster" : "通信エリアの上にあるポスターには、水の民が船を宇宙に飛ばし、そしてゆっくりとより大きな船を建造している様子が描かれている。",
 
 		//Maze Island
-		"$HNLKMazeName" : "Maze Island",
-		"$HNLKMazeInfo" : "South of the starting island, there is a large landmass. It contains a tunnel.",
-		"$HNLKMazeGazebo" : "After going through the tunnel, I emerged at the surface. There is a gazebo with a mural on it. The mural seems to point out a tunnel below the water under a shrine.",
+		"$HNLKMazeName" : "迷路島",
+		"$HNLKMazeInfo" : "始まりの島の南には大きな陸地があり、そこにはトンネルがある。",
+		"$HNLKMazeGazebo" : "トンネルを抜けるとその陸地の地表に出た。壁画が描かれた展望台があり、それは神殿の下の水中にトンネルが存在することを示しているようだ。",
 
 		//Lava Core
 		"$HNLVName" : "Lava Core",
