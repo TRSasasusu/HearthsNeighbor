@@ -157,18 +157,18 @@
 		"$HNLVShrineMurals" : "神殿の最奥に4枚の壁画を見つけた。最初の3つは、それぞれの惑星がますます不安定になり崩壊している様子に見える。4つ目には、船で飛び去るグループと、取り残され悲しみつつ腹を立てるグループが描かれている。",
 
 		//Lonely Hermit
-		"$HNLHName" : "Lonely Hermit",
-		"$HNLHRumorName" : "Dusty Planet",
-		"$HNLHArrival" : "I've arrived in Hearth's Neighbor. The only immediately obvious feature in this system is a lone, dusty planet.",
-		"$HNLHInfo" : "Hearth's Neighbor's sole planet. The surface is devoid of life.",
-		"$HNLHElevator" : "I found some kind of elevator that went below the surface and emerged in a strange expansive area. Is this planet <![CDATA[<color=orange>bigger on the inside</color>]]>?",
+		"$HNLHName" : "孤独な隠者",
+		"$HNLHRumorName" : "くすんだ惑星",
+		"$HNLHArrival" : "私は炉辺の隣人に到着した。この星系についてすぐにわかる唯一の明らかな特徴は、孤独な、くすんだ惑星である。",
+		"$HNLHInfo" : "炉辺の隣人にある唯一の惑星。地表には生命は存在しないようだ。",
+		"$HNLHElevator" : "地表を潜って奇妙な広大な空間に現れるエレベーターのようなものを見つけた。この惑星は<![CDATA[<color=orange>内側の方が大きい</color>]]>ということなのだろうか？",
 
 		//Ghost Matter Structure
-		"$HNLHPlantName" : "Ghost Matter Structure",
-		"$HNLHPlantRumorName" : "Domed Structure",
-		"$HNLHPlantRumor" : "There is a strange domed structure on the surface of Lonely Hermit.",
-		"$HNLHPlantNoEntry" : "There does not seem to be a way inside. Judging by the copious amounts of Ghost Matter leaking out of it, it may not be a good idea to go inside it regardless.",
-		"$HNLHPlantInfo" : "A mural indicates that this structure is built around a comet that once crashed into the planet. The planet's inhabitants harnessed a power from within the comet to fuel their civilization.",
+		"$HNLHPlantName" : "幽霊物質の構造物",
+		"$HNLHPlantRumorName" : "ドーム状の構造物",
+		"$HNLHPlantRumor" : "孤独な隠者の地表には奇妙なドーム状の構造物がある。",
+		"$HNLHPlantNoEntry" : "中に入る方法は存在しないようだ。そこから漏れ出ている大量の幽霊物質から判断すると、中に入るのは得策ではないだろう。",
+		"$HNLHPlantInfo" : "壁画は、この構造物がかつて惑星に衝突した彗星の周りに建てられたことを示している。この惑星の住民は彗星内部からのエネルギーを利用して文明を発展させていた。",
 
 		//Northern Wasteland
 		"$HNLHWastelandName" : "Northern Wasteland",
