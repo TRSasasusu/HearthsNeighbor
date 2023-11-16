@@ -193,23 +193,23 @@
 		"$HNLHLakeHangar" : "この構造物には、大型船用の着陸/発射台のようなものがある。このパッドは、この惑星の住民がより大きな構造物を建造するために資源を保管していたある種の大きな格納庫に接続されている。",
 
 		//Satellite Room
-		"$HNLHLakeDoorName" : "Satellite Room",
-		"$HNLHLakeDoorRumorName" : "Strange Door",
-		"$HNLHLakeDoorRumor" : "There is a massive locked door in the hangar.",
-		"$HNLHLakeDoorSatellite" : "Behind the door was a floating satellite pointing at something in space. There is a signal coming out of it.",
+		"$HNLHLakeDoorName" : "衛星部屋",
+		"$HNLHLakeDoorRumorName" : "奇妙な扉",
+		"$HNLHLakeDoorRumor" : "格納庫にはロックされた巨大な扉が存在する。",
+		"$HNLHLakeDoorSatellite" : "扉の後ろには、宇宙空間内の何かを指している浮遊した衛星がある。そこから信号が出ている。",
 
 		//Museum Plate
-		"$HNMuseumPlateName" : "Museum Plate",
-		"$HNMuseumPlateIntro" : "The museum has restored an old exhibit that's been in storage for a while. It can be found behind the stairs.",
-		"$HNMuseumPlateIntroAlt" : "The museum has an alien plate on display. While it doesn't seem to be Nomai in origin, its creator is unknown.",
-		"$HNMuseumPlateDetails" : "The plate has a map of two solar systems carved on it. One is our system, but the other is a nearby system, Hearth's Neighbor. With a warp drive in one's ship, one could warp to that system and check it out.",
-		"$HNMuseumPlateResolution" : "The plate was left by the sole survivor of Hearth's Neighbor's inhabitants. They had crashed onto our planet and lived here until the end of their days.",
+		"$HNMuseumPlateName" : "博物館のプレート",
+		"$HNMuseumPlateIntro" : "博物館はしばらく保管されていた古い品を再び展示した。階段の後ろに設置されている。",
+		"$HNMuseumPlateIntroAlt" : "博物館には何らかの宇宙人によるプレートが展示されている。起源はNomaiによるものではないようだが、未だ明らかになっていない。",
+		"$HNMuseumPlateDetails" : "プレートには2つの星系の地図が刻まれている。1つは我々の星系だが、もう1つは近くの星系、炉辺の隣人である。自分の探査艇に搭載されたワープドライブにより、その星系にワープして確かめることができるだろう。",
+		"$HNMuseumPlateResolution" : "このプレートは炉辺の隣人の住民である唯一の生存者が残したものだ。その人物は我々の惑星に墜落し、生涯の終わりまでここで暮らした。",
 
 		//Escape Pod
-		"$HNPodName" : "Escape Pod",
-		"$HNPodRumor" : "The damage report from the Derelict Ship showed an escape pod land on Timber Hearth. A signal from the ship connected to it.",
-		"$HNPodResolution" : "The pod is intact! Whoever landed here survived, though what happened to them is a mystery lost to time. The plate at the museum came from the hull of the pod, likely carved out by the survivor(s) wanting to leave a message of where they came from.",
-		"$HNPodThanks" : "You have finished the Jam version of Hearth's Neighbor! Congrats! Of course, there may still be a few secrets remaining..."
+		"$HNPodName" : "脱出ポッド",
+		"$HNPodRumor" : "遺棄船からの被害報告レポートには、脱出ポッドが木の炉辺に着陸したことが示されていた。船からの信号はそこに繋がっている。",
+		"$HNPodResolution" : "ポッドは無事だった！ここに着陸した者は生き残ったが、その人物に何が起こったのかは時の経過とともに謎に包まれている。博物館にあるプレートはポッドの船体から作られたもので、おそらく生存者(たち)がどこから来たのかをメッセージとして残したいと考えて彫ったのだろう。",
+		"$HNPodThanks" : "Hearth's NeighborのMODジャムバージョンはこれで終わりです！おめでとうございます！もちろん、未だいくつかの謎が残されているかもしれません…。"
 
 	},
 	"UIDictionary": {
