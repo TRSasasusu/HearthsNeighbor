@@ -56,21 +56,21 @@
 
 		//Endgame
 		"$HNDevEndgameName": "EndgameZero",
-		"$HNDevEndgameTitle": "EndgameZero: Composer",
-		"$HNDevEndgame1": "Hi! I'm EndgameZero, the composer for Hearth's Neighbor.",
-		"$HNDevEndgame2": "I had a lot of fun making the music for this mod, and I hope you enjoyed it.",
-		"$HNDevEndgame3": "I especially liked writing parts that modified songs from the base game (The River but in 5/4 time was my favorite) and hiding secrets (can you hear any right now?).",
-		"$HNDevEndgame4": "As this is my first mod jam (and my first mod in general): This song is new to me, but I am honored to be a part of it.",
-		"$HNDevEndgameV1": "Well, I definitely didn't expect to win the jam, so that's pretty cool.",
-		"$HNDevEndgameV2": "Anyway, I hid some more secrets this time ::)",
+		"$HNDevEndgameTitle": "EndgameZero:作曲者",
+		"$HNDevEndgame1": "やあ！私はEndgameZero、Hearth's Neighborで作曲を担当しました。",
+		"$HNDevEndgame2": "このMODの音楽を作るのはとても面白かったので、楽しんでいただければ幸いです。",
+		"$HNDevEndgame3": "私は特に、ゲーム本編の曲を変更したパートを書いたり(The Riverですが5/4拍子が私のお気に入りでした)、秘密を隠したりするのが好きでした(今ちょうど聞こえますか?)。",
+		"$HNDevEndgame4": "これは私の最初のMODジャム(そしてジャムに限らず私の最初のMOD)なので:この曲は私にとって新しいものですが、そのパートの1つとなれたことは光栄なことです。",
+		"$HNDevEndgameV1": "ええと、ジャムで優勝するとはまったく予想していなかったので、とてもクールなことです。",
+		"$HNDevEndgameV2": "ということで、今回はさらにいくつかの秘密を隠しました ::)",
 
 		//Misc
-		"$HNDevMiscName": "Special Thanks",
-		"$HNDevMisc1": "The ship dock used in the Lake Core was made by Shoe prior to the Jam for another mod.",
-		"$HNDevMisc2": "A few sounds were taken from FreeSounds, by smokinghotdog.",
-		"$HNDevMisc3": "Special thanks to John Corby, Triffid, xen, and Idiot on the Outer Wilds Modding Discord for answering many questions we had about development.",
-		"$HNDevMisc4": "Thanks to the New Horizons mod team as well. Without them, there is no way we could have made this mod within this time frame.",
-		"$HNDevMisc5": "Russian Translation by Metrocop12. French Translation by Luke Hakurei."
+		"$HNDevMiscName": "スペシャルサンクス",
+		"$HNDevMisc1": "湖のコアで使用されている船のドックは、このジャムの前に別のMODのためShoeが作ったものです。",
+		"$HNDevMisc2": "いくつかのサウンドは、smokinghotdogによるFreeSoundsから取得されました。",
+		"$HNDevMisc3": "スペシャルサンクスをOuter Wilds Modding DiscordのJohn Corby、Triffid、xen、Idiotに贈ります。彼らは開発に関する多くの質問に答えてくれました。",
+		"$HNDevMisc4": "New Horizons MODチームにも感謝します。彼らがいなかったら、期間内にこのMODを作成することはできませんでした。",
+		"$HNDevMisc5": "Russian Translation by Metrocop12. French Translation by Luke Hakurei. Japanese Translation by orclecle."
 	},
 	"ShipLogDictionary": {
 
