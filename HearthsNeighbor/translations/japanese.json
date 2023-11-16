@@ -45,14 +45,14 @@
 
 		//GameWyrm
 		"$HNDevGameWyrmName": "GameWyrm",
-		"$HNDevGameWyrmTitle": "GameWyrm: Team lead and main designer",
-		"$HNDevGameWyrm1": "Hello! I'm GameWyrm, team lead and level designer. I also did all the garbage models in the mod.",
-		"$HNDevGameWyrm2": "I hope you enjoyed Hearth's Neighbor! It's not the most complex, or polished of the Jam entries, I bet, but it's my desire that you at least had some fun playing it.",
-		"$HNDevGameWyrm3": "We had a much more complex story and ending planned, but due to time constraints, we ended up cutting the more complex stuff.",
-		"$HNDevGameWyrm4": "My desire for this mod was to create something different from most of the story mods that exist; I explicitly wanted to avoid doing a mod featuring Nomai or Owlks (Sorry, xen, <![CDATA[<i>inhabitants</i>]]>). This probably was a bad idea, since it did reduce the pre-made assets we could use and restricted us from using text to communicate to the player, but I hope the mystery surrounding this new race made up for the story's shortcomings.",
-		"$HNDevGameWyrmV1": "Huh...we <![CDATA[<i>won???</i>]]> But how? Well, we're honored to have taken the first place prize!",
-		"$HNDevGameWyrmV2": "I personally would have given the award to Tesseract's Secret, but still, very glad to know that people enjoyed our mod!",
-		"$HNDevGameWyrmV3": "There were so many great Jam entries this time around, and I can't wait for the next one!'",
+		"$HNDevGameWyrmTitle": "GameWyrm:チームリーダーおよびメインデザイナー",
+		"$HNDevGameWyrm1": "こんにちは！私はGameWyrm、チームリーダーおよびレベルデザイナーです。また、ガラクタに近いかもしれないがモデルも作った。",
+		"$HNDevGameWyrm2": "Hearth's Neighborはお楽しみいただけましたでしょうか！これはジャム参加作品の中で最も複雑で洗練されているわけではないと思いますが、少なくともある程度は楽しんでプレイしていただければ幸いです。",
+		"$HNDevGameWyrm3": "もっと複雑なストーリーとエンディングを計画していましたが、時間の制約により、そのような複雑な部分はカットすることになりました。",
+		"$HNDevGameWyrm4": "このMODに対する私の望みは、存在するほとんどのストーリーMODとは異なるものを作成することでした。つまり、私はNomaiやOwlks(すまない、xen、<![CDATA[<i>流れ者の住民</i>]]>のことだ)に注目するMODを明確に避けたかったのです。これは、使用できる既成のアセットが減り、さらにプレイヤーとのコミュニケーションにテキストを使用することが制限されたため、おそらく悪いアイデアだったと思います。それでも、この新しい種族を取り巻く謎がストーリーの欠点を補ってくれることを願っています。",
+		"$HNDevGameWyrmV1": "はっ…私たちは<![CDATA[<i>優勝した？？？</i>]]>でもどうやって？えっと、第1位を受賞できて光栄です！",
+		"$HNDevGameWyrmV2": "個人的にはTesseract's Secretに受賞させたかったのですが、それでも、皆さんが私たちのMODを楽しんでくれたことを知ってとても嬉しく思います！",
+		"$HNDevGameWyrmV3": "今回も素晴らしいジャム参加作品がたくさんありましたので、次回も待ちきれません！",
 
 		//Endgame
 		"$HNDevEndgameName": "EndgameZero",
